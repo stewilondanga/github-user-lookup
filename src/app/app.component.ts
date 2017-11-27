@@ -19,7 +19,8 @@ userLookup(){
     const userData=response.json();
     this.githubData=userData;
     console.log(userData);
+
   }
-}
 )
+}
 }
