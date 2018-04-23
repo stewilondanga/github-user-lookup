@@ -1,6 +1,10 @@
 # UserLookup
 By Stewart ilondanga
 
+stilondanga@gmail.com
+
+copyright 2018
+
 ## Description
 This is code for a web application where a user can search for a Github profile using the profiles username, and results are
 displayed for example the profile picture, the location of the profile owner, the number of repositories the profile has.
